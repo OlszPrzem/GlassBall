@@ -3,11 +3,10 @@
 Program do losowania składu komisji na egzaminy dla studentów. Zakłada wrowadzenie puli wszystkich prowadzących, którzy muszą zostać przydzieleni do egzaminów dla grup studentów.
 Aplikacja przekonwertowana do wersji *.exe umożliwiająca uruchomienie bez konieczności środowiska python.
 
-## Libraries used:
+## Użyte biblioteki:
 ```
 tkinter
 auto-py-to-exe
-
 ```
 
 <img
